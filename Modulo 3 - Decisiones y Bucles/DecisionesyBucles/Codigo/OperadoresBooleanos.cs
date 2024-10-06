@@ -35,8 +35,16 @@ namespace DecisionesyBucles.Codigo
             var esNombre1Nulo = nombre1 is null; // false
             var esNombre1NoNulo = nombre1 is not null; // true
 
+            string? letras = null;
+            var nombreLetras = letras is not null;
+            
             Console.WriteLine("Es nombre 1 igual a nulo? " + esNombre1Nulo);
             Console.WriteLine("Es nombre 1 diferente de nulo? " + esNombre1NoNulo);
+
+            Console.WriteLine("letras es null" + letras);
+            Console.WriteLine("NombreLetras" + nombreLetras);
+
+           
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\bin\Debug\net6.0\DecisionesyBucles.exe
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\bin\Debug\net6.0\DecisionesyBucles.deps.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\bin\Debug\net6.0\DecisionesyBucles.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\bin\Debug\net6.0\DecisionesyBucles.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\bin\Debug\net6.0\DecisionesyBucles.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.sourcelink.json
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\refint\DecisionesyBucles.dll
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.pdb
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\DecisionesyBucles.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Programando-En-Csharp-Udemy\Modulo 3 - Decisiones y Bucles\DecisionesyBucles\obj\Debug\net6.0\ref\DecisionesyBucles.dll

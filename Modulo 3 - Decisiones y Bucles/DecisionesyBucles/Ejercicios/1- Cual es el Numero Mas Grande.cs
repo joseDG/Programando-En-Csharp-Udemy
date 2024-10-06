@@ -14,9 +14,15 @@ namespace DecisionesyBucles.Ejercicios
     {
        public int DeterminarElNumeroMayor(int a, int b){
             int resultado = 0;
-            
+
             // Tu código debajo de esta línea
-            
+            if (a > b) {
+                resultado = a;
+            }
+            else
+            {
+                resultado = b;
+            }
             return resultado;
         }
     }
