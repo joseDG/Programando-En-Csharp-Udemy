@@ -16,10 +16,13 @@ namespace Variables.Codigo
             string texto = "Mi amigo me dijo una vez: \"Me caes bien\"";
             string caracterDeEscape = "En C# podemos usar \\ para escapar strings";
 
+            string titulo = "Programacion";
+
             Console.WriteLine(primeraLetraDelABC);
             Console.WriteLine(nombre);
             Console.WriteLine(texto);
             Console.WriteLine(caracterDeEscape);
+            Console.WriteLine(titulo);
         }
     }
 }

@@ -37,6 +37,11 @@ namespace Variables.Codigo
 
             Console.WriteLine("Valor por defecto de string: ");
             Console.WriteLine(nombre);
+
+            string apellido = default;
+
+            Console.WriteLine("Valor por defecto de string: ");
+            Console.WriteLine(apellido);
         }
     }
 }

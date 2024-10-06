@@ -14,6 +14,7 @@ namespace Variables.Codigo
             DateTime ahora = DateTime.Now;
             DateTime primerDiaDelAño = new DateTime(2022, 1, 1, 7, 15, 23);
             DateTime mañana = DateTime.Now.AddDays(1);
+            
 
             Console.WriteLine(ahora);
             Console.WriteLine(primerDiaDelAño);
